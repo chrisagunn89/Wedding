@@ -9,7 +9,7 @@ $message  = trim(stripslashes(htmlspecialchars($_POST['message'])));
 
 /* Email Template */
 
-$to      = "place@your.email";
+$to      = "karena.mccarthy@doubleglaze.co.nz";
 
 $subject = "Contact form submitted by:  $name";
 
